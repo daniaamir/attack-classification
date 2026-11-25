@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = r'''# Robust Attack-Type Classification on UNSW-NB15 Network Traffic
+readme =  Robust Attack-Type Classification on UNSW-NB15 Network Traffic
 
 A machine-learning-based Network Intrusion Detection System (NIDS) that classifies network-flow records into **10 traffic categories** using the UNSW-NB15 benchmark dataset. The project evaluates data quality, duplicate-aware validation, model performance, feature reliance, and robustness to corrupted input.
 
