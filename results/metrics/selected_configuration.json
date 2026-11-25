@@ -1,0 +1,17 @@
+{
+  "selected_model": "LightGBM (Mild Weights)",
+  "selected_preprocessing": "S0_Raw",
+  "selection_metric": "macro_f1_with_accuracy_guardrail",
+  "accuracy_tolerance_absolute": 0.015,
+  "best_mean_cv_accuracy_among_candidates": 0.7069645322565723,
+  "minimum_eligible_mean_cv_accuracy": 0.6919645322565723,
+  "selected_mean_validation_accuracy": 0.7008556220999973,
+  "selected_mean_validation_macro_precision": 0.6584862993236641,
+  "selected_mean_validation_macro_recall": 0.5387004089365226,
+  "selected_mean_validation_macro_f1": 0.5557861549882983,
+  "selected_mean_validation_weighted_f1": 0.6924591260770507,
+  "std_validation_macro_f1": 0.011321072275881073,
+  "selected_mean_validation_macro_fpr": 0.03787175016183228,
+  "test_set_used_for_selection": false,
+  "selection_explanation": "Macro-F1 is maximized among candidates whose mean grouped-validation accuracy is within the predeclared 1.5 percentage-point tolerance of the best-accuracy candidate; macro recall and accuracy are subsequent tie-breakers."
+}

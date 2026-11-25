@@ -1,0 +1,22 @@
+{
+  "exact_test_feature_rows_also_present_in_training": 8541,
+  "test_overlap_fraction": 0.10373852208132925,
+  "test_class_distribution_checked_after_final_evaluation": true,
+  "test_feature_shift_checked_after_final_evaluation": true,
+  "overlap_per_class_report_saved": true,
+  "overlap_vs_novel_test_performance_saved": true,
+  "overlap_training_label_ambiguity_report": {
+    "exact_overlap_test_rows": 8541,
+    "overlap_rows_matching_conflicting_training_label_groups": 2660,
+    "overlap_rows_whose_actual_test_label_is_absent_from_matching_training_label_set": 4294,
+    "interpretation": "A feature vector can be associated with more than one training label. Such collisions expose dataset-level label ambiguity; they are not repaired by preprocessing."
+  },
+  "test_unique_feature_groups": 53946,
+  "test_duplicate_feature_rows_after_first": 28386,
+  "test_repeated_feature_groups": 6318,
+  "test_conflicting_duplicate_feature_groups": 575,
+  "test_rows_in_conflicting_duplicate_groups": 8809,
+  "posthoc_test_feature_profile_saved": true,
+  "posthoc_test_categorical_frequencies_saved": true,
+  "warning": "Descriptive test-set diagnostics only; do not use these results to change or reselect the reported model."
+}

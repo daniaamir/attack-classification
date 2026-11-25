@@ -1,0 +1,24 @@
+test_all_ten_classes_present (__main__.NIDSPipelineTests.test_all_ten_classes_present) ... ok
+test_candidate_models_and_f1_selection (__main__.NIDSPipelineTests.test_candidate_models_and_f1_selection) ... ok
+test_comprehensive_dataset_audit_fields (__main__.NIDSPipelineTests.test_comprehensive_dataset_audit_fields) ... ok
+test_confusion_matrix_dimensions (__main__.NIDSPipelineTests.test_confusion_matrix_dimensions) ... ok
+test_engineered_features_exist_and_are_deterministic (__main__.NIDSPipelineTests.test_engineered_features_exist_and_are_deterministic) ... ok
+test_grouped_folds_cover_all_classes_and_no_duplicate_leakage (__main__.NIDSPipelineTests.test_grouped_folds_cover_all_classes_and_no_duplicate_leakage) ... ok
+test_leakage_columns_excluded (__main__.NIDSPipelineTests.test_leakage_columns_excluded) ... ok
+test_metric_ranges (__main__.NIDSPipelineTests.test_metric_ranges) ... ok
+test_mild_sample_weights_are_finite_and_normalized (__main__.NIDSPipelineTests.test_mild_sample_weights_are_finite_and_normalized) ... ok
+test_model_serialization (__main__.NIDSPipelineTests.test_model_serialization) ... ok
+test_official_test_not_used_for_diagnostics (__main__.NIDSPipelineTests.test_official_test_not_used_for_diagnostics) ... ok
+test_posthoc_test_overlap_diagnostics_exist (__main__.NIDSPipelineTests.test_posthoc_test_overlap_diagnostics_exist) ... ok
+test_prediction_count_and_labels (__main__.NIDSPipelineTests.test_prediction_count_and_labels) ... ok
+test_probability_alignment (__main__.NIDSPipelineTests.test_probability_alignment) ... ok
+test_record_id_and_binary_label_are_not_predictors (__main__.NIDSPipelineTests.test_record_id_and_binary_label_are_not_predictors) ... ok
+test_result_artifacts_exist (__main__.NIDSPipelineTests.test_result_artifacts_exist) ... ok
+test_schema_and_feature_preparation_match (__main__.NIDSPipelineTests.test_schema_and_feature_preparation_match) ... ok
+test_screening_and_confirmation_counts (__main__.NIDSPipelineTests.test_screening_and_confirmation_counts) ... ok
+test_unseen_categories (__main__.NIDSPipelineTests.test_unseen_categories) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.706s
+
+OK

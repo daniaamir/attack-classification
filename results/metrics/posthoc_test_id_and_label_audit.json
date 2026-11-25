@@ -1,0 +1,8 @@
+{
+  "test_id_unique": true,
+  "test_id_monotonic_increasing": true,
+  "test_id_min": 1.0,
+  "test_id_max": 82332.0,
+  "test_binary_label_target_mismatches": 0,
+  "id_used_as_predictor": false
+}

@@ -1,0 +1,11 @@
+predicted_attack_cat,count
+Normal,26974
+Generic,18385
+Fuzzers,12898
+Exploits,11359
+DoS,3999
+Reconnaissance,3138
+Backdoor,2646
+Analysis,1893
+Shellcode,992
+Worms,48

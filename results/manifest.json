@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-11-23T09:01:47.407764+00:00",
+  "selected_model": "LightGBM (Mild Weights)",
+  "selected_preprocessing": "S0_Raw",
+  "selection_metric": "macro_f1_with_accuracy_guardrail",
+  "accuracy_tolerance_absolute": 0.015,
+  "validation_protocol": "two sampled duplicate-grouped screening folds",
+  "fast_mode": true,
+  "mild_class_weight_exponent": 0.35,
+  "quick_run": false,
+  "academic_report_included": false,
+  "comprehensive_data_audit": true,
+  "test_used_for_model_selection": false,
+  "diagnostics_source": "training-only grouped validation fold"
+}
