@@ -1,1 +1,9 @@
-
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+joblib
+lightgbm
+xgboost
+gradio
